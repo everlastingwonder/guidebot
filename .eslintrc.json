@@ -29,27 +29,31 @@
       "always"
     ],
     "keyword-spacing": [
-      "error", {
+      "error",
+      {
         "before": true,
         "after": true
       }
     ],
     "space-before-blocks": [
-      "error", {
+      "error",
+      {
         "functions":"always",
         "keywords": "always",
         "classes": "always"
       }
     ],
     "space-before-function-paren": [
-      "error", {
+      "error",
+      {
         "anonymous": "never",
         "named": "never",
         "asyncArrow": "always"
       }
     ],
     "prefer-const": [
-      "error", {
+      "error",
+      {
         "destructuring": "any",
         "ignoreReadBeforeAssign": false
       }
